@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Euler7", "Euler7\Euler7.csproj", "{769321E6-03C4-4215-A8F5-9A2B852A3C65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{769321E6-03C4-4215-A8F5-9A2B852A3C65}.Debug|x86.ActiveCfg = Debug|x86
+		{769321E6-03C4-4215-A8F5-9A2B852A3C65}.Debug|x86.Build.0 = Debug|x86
+		{769321E6-03C4-4215-A8F5-9A2B852A3C65}.Release|x86.ActiveCfg = Release|x86
+		{769321E6-03C4-4215-A8F5-9A2B852A3C65}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
